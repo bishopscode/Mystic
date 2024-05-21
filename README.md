@@ -1,12 +1,9 @@
 # Mystic
-welcome bishop-cipher dome
-html
-<!DOCTYPE html>
+bishop-cipher dome
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equivX-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sentinel Bishop-Cipher | Founder of Bugfix Technologies</title>
     <style>
